@@ -1,0 +1,6 @@
+pandas
+pylint
+pytest
+black
+pytest-cov
+click
